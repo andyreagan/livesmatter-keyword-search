@@ -1,0 +1,10 @@
+NOTES.markdown
+*~
+*.pyc
+*.sqlite3
+*.zip
+raw-tweets*
+user-tweets/
+usernames*
+key*
+pyenv
